@@ -4,6 +4,8 @@
 </h1>
 
 Discord message end-to-end client side encryption plugin with automatic key exchange.
+
+
 <br>
 If you have `BetterDiscord installed`, use the [plugin](https://github.com/SourCandy80/SimpleDiscordCrypt-Extended/blob/master/SimpleDiscordCryptLoader.plugin.js) (*Alt+Click* the link to download)<br>
 <br>
