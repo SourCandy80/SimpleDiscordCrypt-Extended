@@ -5,7 +5,7 @@
 
 Discord message end-to-end client side encryption plugin with automatic key exchange.
 <br>
-If you have `BetterDiscord installed`, use the [plugin](https://github.com/SourCandy80/SimpleDiscordCrypt-Extended/blob/master/SimpleDiscordCryptLoader.plugin.js) (*Alt+Click* the link to download)<br>
+If you have `BetterDiscord installed`, use the [plugin](https://github.com/SourCandy80/SimpleDiscordCrypt-Extended/raw/master/SimpleDiscordCryptLoader.plugin.js) (*Alt+Click* the link to download)<br>
 
 This is a fork of the original *SimpleDiscordCrypt* repository that aims to fix bugs and issues faster and to add more features. The original project by An0 can be found [here](https://gitlab.com/An0/SimpleDiscordCrypt).
 ### Improvements over the original version
